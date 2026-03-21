@@ -1,0 +1,7 @@
+{
+  "prompt": "your full final prompt here",
+  "model": "DALL·E 3",
+  "dataset_name": "Air Pollution Deaths - Our World in Data",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution kills millions silently — every breath carries harm"
+}
